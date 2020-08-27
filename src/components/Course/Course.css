@@ -1,0 +1,17 @@
+.card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    width: 10%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgray;
+   
+
+}
+.card img{
+    width: 100%;
+    padding: 5px;
+}
+.btn-danger{
+    margin-top: 5px;
+}

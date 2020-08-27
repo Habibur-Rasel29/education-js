@@ -1,0 +1,9 @@
+.navbar{
+    background-color: white;
+}
+.navbar-brand img{
+    width: 25%;
+}
+.nav-item{
+    margin-right: 80px;
+}

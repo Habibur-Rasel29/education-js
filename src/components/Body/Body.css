@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    margin-top: 50px;
+    padding: 10px;
+
+}
+.body-container{
+    display: flex;
+    width: 80%;
+    margin-top: 40px;
+    border-right: 1px solid lightgray;
+}
+.cart-container{
+    margin-top: 40px;
+    margin-left: 40px;
+}
